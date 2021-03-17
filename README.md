@@ -34,7 +34,8 @@ Part 2: shared practical session (30 minutes)
 -   Working all together on R basics:
     <https://itsleeds.github.io/rrsrr/basics.html> (15 minutes)
 -   Working all together on using RStudio:
-    <https://itsleeds.github.io/rrsrr/rstudio.html> (15 minutes)
+    <https://itsleeds.github.io/rrsrr/rstudio.html> (10 minutes)
+-   Break and questions (5 minutes)
 
 Part 3: breakout rooms (1 hr 30 minutes)
 
