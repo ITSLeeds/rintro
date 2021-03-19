@@ -37,11 +37,17 @@ Part 2: shared practical session (30 minutes)
     <https://itsleeds.github.io/rrsrr/rstudio.html> (10 minutes)
 -   Break and questions (5 minutes)
 
-Part 3: breakout rooms (1 hr 30 minutes)
+Part 3: breakout rooms (1 hr 20 minutes)
 
--   Using packages: <https://itsleeds.github.io/rrsrr/pkgs.html> (30
-    minutes)
+-   Using packages: <https://itsleeds.github.io/rrsrr/pkgs.html> around
+    half an hour
 -   Manipulating data: filtering and selecting data:
-    <https://itsleeds.github.io/rrsrr/data.html#tibbles> (30 minutes)
--   Spatial data: <https://itsleeds.github.io/rrsrr/space.html> (30
-    minutes)
+    <https://itsleeds.github.io/rrsrr/data.html#tibbles> around half an
+    hour
+-   (Optional) spatial data:
+    <https://itsleeds.github.io/rrsrr/space.html>
+
+Part 4: debrief (10 minutes)
+
+-   Additional resources
+-   How to get help
