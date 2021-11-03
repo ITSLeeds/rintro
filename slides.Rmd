@@ -30,19 +30,36 @@ class: center, bottom, inverse
 
 --
 
-### Martyna
---
-
 ### Caroline
 
 --
 
-### Joey
+### Ryan
+
+--
+
+### Nathanael
 
 --
 
 
 ### How about you?
+
+<!-- No time for go around, just type in the chat -->
+
+---
+
+# Session overview
+
+Part 1: what R can do 
+
+Part 2: shared practical session
+
+Part 3: breakout rooms
+
+- Using packages: https://itsleeds.github.io/rrsrr/pkgs.html around half an hour
+- Manipulating data: filtering and selecting data: https://itsleeds.github.io/rrsrr/data.html#tibbles around half an hour
+- Spatial data: https://itsleeds.github.io/rrsrr/space.html 
 
 ---
 
@@ -65,6 +82,22 @@ Scalable: https://www.pct.bike/
 - Time to learn
 
 - Other options are available
+
+---
+
+# Demo of using R
+
+<!-- 20 mins - until around 09:30 -->
+
+See https://github.com/Robinlovelace/openTransportDataDemo
+
+![](https://camo.githubusercontent.com/5cc3bcc50e1b1e057510c6babc17694cea15a2e235a2a737a697392f3ff68cc7/68747470733a2f2f692e696d6775722e636f6d2f6f457576315a6a2e706e67)
+
+---
+
+# Questions on how to use R for transport research 
+
+<!-- (20 minutes) -->
 
 ---
 
